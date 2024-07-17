@@ -11,7 +11,6 @@ Welcome to the **Uber Data Analysis** project! This project dives into the depth
 - [Analysis Overview](#analysis-overview)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## 🧐 Introduction
 
